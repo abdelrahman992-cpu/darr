@@ -11,11 +11,7 @@ session_start();
 <body  >
 <?php
 include("header.php");
-echo("hhh");
-echo("jjj");
-echo("holle");
-echo("yoyo");
-echo("yoyoyyyy");
+echo("hHH");
       ?>
 
 
