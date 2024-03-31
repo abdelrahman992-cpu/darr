@@ -11,12 +11,12 @@ session_start();
 <body  >
 <?php
 include("header.php");
-<<<<<<< HEAD
 
 
-=======
+
+
 echo("hHH");
->>>>>>> 0f7620a77c7408b0fca2baf233d7911a43ca8417
+
       ?>
 
 
